@@ -1,4 +1,4 @@
-malaynayak.github.io
+sevenu7.github.io
 ====================
 
-Malay Nayak - Full Stack Developer
+Venu Sugguna - Full Stack Developer
